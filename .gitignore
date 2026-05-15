@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Generated TypeScript declaration maps
+**/*.d.ts.map
+**/*.ngfactory.d.ts.map
+**/*.ngsummary.json
+**/*.ngstyle.d.ts.map
+
+# Build outputs
+dist/
+out-tsc/
+projects/webserver/dist/
+
+# Angular cache
+.angular/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.claude
